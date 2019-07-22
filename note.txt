@@ -1,0 +1,4 @@
+gradle build uploadArchives  -Dorg.gradle.java.home=D:\AllSDE\Java\jdk1.8.0_171
+
+
+maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}

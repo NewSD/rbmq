@@ -1,0 +1,3 @@
+rootProject.name = 'rbmq'
+include 'rbmq-direct-consumer'
+include 'rbmq-direct-publisher'
